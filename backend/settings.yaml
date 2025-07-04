@@ -25,5 +25,13 @@ label-settings:
     - 'person walking in office'
     - 'group of people'
     - 'person holding knife'
+    - 'person holding blunt object'
+    - 'person holding a pen'
+    - 'plastic bottle'
+    - 'person holding a bottle'
+    - 'person holding a cup'
+    - 'person holding a glass'
+    - 'person looking at a screen'
+    - 'person holding a phone'
   default-label: 'Unknown' # value to return if model's confidence is less than "prediction-threshold"
 

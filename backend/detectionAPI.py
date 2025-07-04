@@ -16,7 +16,7 @@ import os
 # 📚 Constants
 # --------------------------------------
 DB_PATH = "threat_history.db"
-BUZZER_API_URL = "http://192.168.57.103/buzz?buzz=on"
+BUZZER_API_URL = "http://192.168.61.103/buzz?buzz=on"
 IMAGE_SAVE_PATH = "./images/"
 # Threat Classification Labels
 threat_labels = {
